@@ -1,1 +1,2 @@
-# daily-web-page-views-forecast
+# Daily web page views forecast with Facebook Prophet
+A hands-on tutorial how to use Facebook Prophet
